@@ -37,7 +37,7 @@ $N\le 3\times 10^5,$ $3\le M\le 10^9$.
 |SAMPLE INPUT|SAMPLE OUTPUT|
 |-|-|
 |<pre>1<br>30<br>2</pre>|<pre>3</pre>|
-|<pre>2<br>63<br>0</pre>|
+|<pre>2<br>63<br>0</pre>|<pre>0</pre>
 
 - $x = 1, y = 1, |x^2 - y^3| = |1 - 1| = 0$;
 - $x = 3, y = 2, |x^2 - y^3| = |9 - 8| = 1$;
